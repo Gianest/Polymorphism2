@@ -1,0 +1,10 @@
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe.config
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.pdb
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\bin\Debug\Newtonsoft.Json.dll
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\bin\Debug\Newtonsoft.Json.xml
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CopyComplete
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.exe
+c:\users\amikom\source\repos\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.pdb
